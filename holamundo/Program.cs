@@ -11,6 +11,9 @@ namespace holamundo
         static void Main(string[] args)
         {
             Console.Write("¡Hello Word!");
+
+            Console.Write("¡This is Git!");
+
             Console.ReadKey();
         }
     }
